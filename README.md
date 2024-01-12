@@ -1,5 +1,5 @@
 # Delete-Logs-Windows
-Auto Delete Logs Windows
+Delete Logs Windows
 
 ## commands:
 
